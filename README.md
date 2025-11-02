@@ -66,8 +66,10 @@ Users can customize and furnish a living space in real-time, with realistic ligh
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
+  <a href="https://yahyaislamovic.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/yahya-islamovic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
