@@ -10,7 +10,7 @@
 
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Yahya+Islamovic+👋;PERN+Fullstack+%7C+and+Unity+Dev;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Yahya+Islamovic+👋;PERN+Fullstack+%7C+Unity+Dev;" alt="Typing SVG" />
 </h1>
 
 ---
