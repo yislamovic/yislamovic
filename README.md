@@ -52,8 +52,9 @@ Users can customize and furnish a living space in real-time, with realistic ligh
 
 ---
 
-### 📊 GitHub Stats
+
 <!--
+### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yislamovic&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yislamovic&theme=tokyonight&hide_border=true" />
